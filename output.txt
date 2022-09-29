@@ -1,0 +1,4 @@
+Hello Java!Hello Java!\nHello Java!\nHello Java!\r\nHello Java!
+Hello Java!
+Hello Java!
+buffering output
